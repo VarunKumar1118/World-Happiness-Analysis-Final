@@ -14,6 +14,8 @@ It is very user- friendly and easy to use.
 
 You can access the application from here: [World Happiness Analysis App](https://varunkumarboggula.shinyapps.io/World_Happiness/).
 
+Here is the link to access the GitHub repository: [[*https://github.com/VarunKumar1118/World-Happiness-Analysis-Final*]{.underline}](https://github.com/VarunKumar1118/World-Happiness-Analysis-Final){.uri}
+
 ## Introduction
 
 The universal quest of happiness is a fundamental desire that unites people.Understanding the factors that contribute to happiness is crucial for policymakers, researchers, and individuals seeking to enhance well-being and quality of life.
